@@ -42,7 +42,7 @@ const AboutMe = {
 Projects 📦
 -----------
 
-- #### <a href="https://github.com/unveroleone/clipfetch"><img align="center" src="https://img.shields.io/badge/-ClipFetch-41BDF5?style=for-the-badge"></a> :&nbsp; iOS Shortcut & Server for downloading YouTube/TikTok videos via Flask & yt-dlp
+- #### <a href="https://github.com/unveroleone/ClipFetch"><img align="center" src="https://img.shields.io/badge/-ClipFetch-41BDF5?style=for-the-badge"></a> :&nbsp; iOS Shortcut & Server for downloading YouTube/TikTok videos via Flask & yt-dlp
 
 - #### <a href="https://github.com/pr3y/bruce"><img align="center" src="https://img.shields.io/badge/-Bruce-F542A7?style=for-the-badge"></a> :&nbsp; Predatory firmware for M5 devices with security features
 
@@ -50,7 +50,9 @@ Projects 📦
 
 - #### <a href="https://github.com/unveroleone/seb-unlocker"><img align="center" src="https://img.shields.io/badge/-SEB_Unlocker-FF8C00?style=for-the-badge"></a> :&nbsp; Tool for bypassing SEB configurations with paywall integration
 
-- #### <a href="https://github.com/unveroleone/home-assistant"><img align="center" src="https://img.shields.io/badge/-Smart_Home_Setup-33CC99?style=for-the-badge"></a> :&nbsp; EnOcean & Zigbee integration with Home Assistant
+- #### <a href="https://github.com/unveroleone/"><img align="center" src="https://img.shields.io/badge/-Smart_Home_Setup-33CC99?style=for-the-badge"></a> :&nbsp; EnOcean & Zigbee integration with Home Assistant
+
+- #### <a href="https://github.com/unveroleone/HackStarter-Kit"><img align="center" src="https://img.shields.io/badge/-HackStarter_Kit-FF5733?style=for-the-badge"></a> :&nbsp; Starter kit for hackathons with pre-configured tools and resources
 
 <br />
 
