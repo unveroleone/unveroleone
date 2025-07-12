@@ -99,5 +99,7 @@ Languages 💻
 
 <!-- ThinkPad -->
 ### ThinkPad
-[![ThinkPad](https://img.shields.io/badge/Lenovo-ThinkPad-333333?style=for-the-badge&logo=lenovo&logoColor=white&labelColor=E2231A)]()
-[![OS](https://img.shields.io/badge/-Arch_Linux-333333?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=1793D0)]()
+[![ThinkPad](https://img.shields.io/badge/Model-Yoga_370-333333?style=for-the-badge&logo=lenovo&logoColor=white&labelColor=E2231A)]()
+[![OS](https://img.shields.io/badge/OS-Arch_Linux-333333?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=1793D0)]()
+[![CPU](https://img.shields.io/badge/CPU-Intel_i5--7300U-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)]()
+[![RAM](https://img.shields.io/badge/RAM-16GB-333333?style=for-the-badge&logo=memory&logoColor=white&labelColor=6C6C6C)]()
