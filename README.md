@@ -44,8 +44,7 @@ Projects 📦
 
 - #### <a href="https://github.com/unveroleone/ClipFetch"><img align="center" src="https://img.shields.io/badge/-ClipFetch-41BDF5?style=for-the-badge"></a> :&nbsp; iOS Shortcut & Server for downloading YouTube/TikTok videos via Flask & yt-dlp
 
-- #### <a href="https://github.com/pr3y/bruce"><img align="center" src="https://img.shields.io/badge/-Bruce-F542A7?style=for-the-badge"></a> :&nbsp; Predatory firmware for M5 devices with security features
-
+- #### <a href="https://github.com/unveroleone/UnyxRF"><img align="center" src="https://img.shields.io/badge/-UnyxRF PCB-F542A7?style=for-the-badge"></a> :&nbsp; My own PCB for M5Stick compatible with [Bruce](https://github.com/pr3y/Bruce)
 - #### <a href="https://github.com/unveroleone/unity-handbook"><img align="center" src="https://img.shields.io/badge/-Unity_Handbook-0A99CE?style=for-the-badge"></a> :&nbsp; Community platform for developers to share snippets & comments
 
 - #### <a href="https://github.com/unveroleone/seb-unlocker"><img align="center" src="https://img.shields.io/badge/-SEB_Unlocker-FF8C00?style=for-the-badge"></a> :&nbsp; Tool for bypassing SEB configurations with paywall integration
