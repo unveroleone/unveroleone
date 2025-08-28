@@ -82,19 +82,20 @@ Languages 💻
 [![RAM](https://img.shields.io/badge/RAM-16GB-333333?style=for-the-badge&logo=memory&logoColor=white&labelColor=6C6C6C)]()
 [![OS](https://img.shields.io/badge/-Dualboot%20Win10%20_%20Ubuntu-333333?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6)]()
 
+<!-- MacBook -->
+### MacBook M1 Pro 2021
+[![MacBook](https://img.shields.io/badge/Apple-MBP_M1_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white&labelColor=999999)]()
+[![Chip](https://img.shields.io/badge/-M1_Pro-333333?style=for-the-badge&logo=apple&logoColor=white&labelColor=999999)]()
+[![RAM](https://img.shields.io/badge/RAM-16GB-333333?style=for-the-badge&logo=memory&logoColor=white&labelColor=6C6C6C)]()
+[![OS](https://img.shields.io/badge/-macOS-333333?style=for-the-badge&logo=apple&logoColor=white&labelColor=999999)]()
+
+
 <!-- HP Laptop -->
 ### HP Laptop
 [![Laptop](https://img.shields.io/badge/HP-Work_Laptop-333333?style=for-the-badge&logo=hp&logoColor=white&labelColor=0096D6)]()
 [![CPU](https://img.shields.io/badge/Intel-Core_i5_1245U-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)]()
 [![RAM](https://img.shields.io/badge/RAM-32GB-333333?style=for-the-badge&logo=memory&logoColor=white&labelColor=6C6C6C)]()
 [![OS](https://img.shields.io/badge/-Windows_11-333333?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6)]()
-
-<!-- MacBook -->
-### MacBook M1 2020
-[![MacBook](https://img.shields.io/badge/Apple-MacBook_M1_2020-333333?style=for-the-badge&logo=apple&logoColor=white&labelColor=999999)]()
-[![Chip](https://img.shields.io/badge/-M1-333333?style=for-the-badge&logo=apple&logoColor=white&labelColor=999999)]()
-[![RAM](https://img.shields.io/badge/RAM-8GB-333333?style=for-the-badge&logo=memory&logoColor=white&labelColor=6C6C6C)]()
-[![OS](https://img.shields.io/badge/-macOS-333333?style=for-the-badge&logo=apple&logoColor=white&labelColor=999999)]()
 
 <!-- ThinkPad -->
 ### ThinkPad
