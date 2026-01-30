@@ -35,7 +35,7 @@ const AboutMe = {
     name: "Leo",
     occupation: "Software Developer in Training",
     hobbies: ["Football", "Tech", "Coding", "Cybersecurity"],
-    stack: ["HTML", "CSS", "JavaScript", "React", "Python", "SQL"],
+    stack: ["Bash", "Go", "JavaScript", "React", "Python", "C#"],
 };
 ```
 
