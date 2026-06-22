@@ -31,7 +31,7 @@ const leo = {
 | 01 | [**UnyxRF**](https://github.com/unveroleone/UnyxRF) — Open-source PCB for M5StickC Plus 2 with RF support | Hardware | 2025 |
 | 02 | [**HackStarter Kit**](https://github.com/unveroleone/HackStarter-Kit) — Educational security toolkit | Security | 2025 |
 | 03 | [**Homelab**](https://github.com/unveroleone/) — Proxmox, Docker, Home Assistant, self-hosted stack | Infrastructure | Ongoing |
-| 04 | [**Save Sync**](https://github.com/unveroleone/vita-save-sync) — PSVITA Homebrew | Homebrew App | Ongoing |
+| 04 | [**Save Sync**](https://github.com/unveroleone/vita-save-sync) — PSVITA Homebrew Cloud Sync App | Homebrew App | Ongoing |
 
 
 ---
