@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 332" width="540" height="332" role="img" aria-labelledby="t">
+<title id="t">Terminal connecting to Leo's home server</title>
+<style>
+:root{--bg:#f6f8fa;--bar:#eaeef2;--line:#d0d7de;--fg:#1f2328;--muted:#59636e;--ok:#1a7f37;--wait:#9a6700;--accent:#8250df}
+@media (prefers-color-scheme:dark){:root{--bg:#161b22;--bar:#21262d;--line:#30363d;--fg:#e6edf3;--muted:#8b949e;--ok:#3fb950;--wait:#d29922;--accent:#a371f7}}
+text{font:14px ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;white-space:pre}
+.bg{fill:var(--bg);stroke:var(--line)}
+.bar{fill:var(--bar)}
+.rule{stroke:var(--line)}
+.dot{fill:var(--line)}
+.title{fill:var(--muted);font-size:12px;text-anchor:middle}
+.fg{fill:var(--fg)}
+.muted{fill:var(--muted)}
+.ok{fill:var(--ok)}
+.wait{fill:var(--wait)}
+.accent{fill:var(--accent)}
+.strong{font-weight:700}
+.a{opacity:0;animation:show .01s linear forwards}
+.flash{opacity:0;animation:flash 0.3s linear forwards}
+.typing{animation:travel var(--duration) steps(var(--steps),end) var(--start) forwards,hide .01s linear var(--hide) forwards}
+.end{opacity:0;animation:blink 1s step-end var(--start) 4 forwards}
+@keyframes show{to{opacity:1}}
+@keyframes flash{0%,99%{opacity:1}100%{opacity:0}}
+@keyframes travel{to{transform:translateX(var(--travel))}}
+@keyframes hide{to{opacity:0}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}100%{opacity:1}}
+@media (prefers-reduced-motion:reduce){.a,.end{opacity:1;animation:none}.flash,.typing{display:none}}
+</style>
+<rect class="bg" x=".5" y=".5" width="539" height="331" rx="10"/>
+<path class="bar" d="M1 38V11a10 10 0 0 1 10-10h518a10 10 0 0 1 10 10v27z"/>
+<line class="rule" x1="1" x2="539" y1="38" y2="38"/>
+<circle class="dot" cx="20" cy="19.5" r="5"/><circle class="dot" cx="38" cy="19.5" r="5"/><circle class="dot" cx="56" cy="19.5" r="5"/>
+<text class="title" x="270" y="24">leo@macbook</text>
+<text class="ok" x="24" y="70">~</text>
+<text class="fg a" x="40.8" y="70" style="animation-delay:0.50s">s</text>
+<text class="fg a" x="49.2" y="70" style="animation-delay:0.57s">s</text>
+<text class="fg a" x="57.6" y="70" style="animation-delay:0.64s">h</text>
+<text class="fg a" x="74.4" y="70" style="animation-delay:0.78s">h</text>
+<text class="fg a" x="82.8" y="70" style="animation-delay:0.85s">o</text>
+<text class="fg a" x="91.2" y="70" style="animation-delay:0.92s">m</text>
+<text class="fg a" x="99.6" y="70" style="animation-delay:0.99s">e</text>
+<text class="fg a" x="108.0" y="70" style="animation-delay:1.06s">l</text>
+<text class="fg a" x="116.4" y="70" style="animation-delay:1.13s">a</text>
+<text class="fg a" x="124.8" y="70" style="animation-delay:1.20s">b</text>
+<rect class="ok typing" x="40.8" y="58" width="8" height="15" style="--travel:92.4px;--steps:11;--duration:0.77s;--start:0.5s;--hide:1.57s"/>
+<text class="muted a" x="24" y="94" style="animation-delay:1.57s">connected from macbook pro m1 pro</text>
+<text class="wait flash" x="24" y="128" style="animation-delay:1.92s">[ .. ]</text>
+<text class="ok a" x="24" y="128" style="animation-delay:2.22s">[ ok ]</text>
+<text class="fg a" x="87" y="128" style="animation-delay:1.92s">proxmox</text>
+<text class="muted a" x="225.60000000000002" y="128" style="animation-delay:1.92s">ryzen 5, 32 gb ram, gtx 1650</text>
+<text class="wait flash" x="24" y="152" style="animation-delay:2.14s">[ .. ]</text>
+<text class="ok a" x="24" y="152" style="animation-delay:2.44s">[ ok ]</text>
+<text class="fg a" x="87" y="152" style="animation-delay:2.14s">plex</text>
+<text class="muted a" x="225.60000000000002" y="152" style="animation-delay:2.14s">506 movies, 40 shows</text>
+<text class="wait flash" x="24" y="176" style="animation-delay:2.36s">[ .. ]</text>
+<text class="ok a" x="24" y="176" style="animation-delay:2.66s">[ ok ]</text>
+<text class="fg a" x="87" y="176" style="animation-delay:2.36s">home assistant</text>
+<text class="muted a" x="225.60000000000002" y="176" style="animation-delay:2.36s">runs the house</text>
+<text class="wait flash" x="24" y="200" style="animation-delay:2.58s">[ .. ]</text>
+<text class="ok a" x="24" y="200" style="animation-delay:2.88s">[ ok ]</text>
+<text class="fg a" x="87" y="200" style="animation-delay:2.58s">monitoring</text>
+<text class="muted a" x="225.60000000000002" y="200" style="animation-delay:2.58s">64 alert rules</text>
+<text class="wait flash" x="24" y="224" style="animation-delay:2.80s">[ .. ]</text>
+<text class="ok a" x="24" y="224" style="animation-delay:3.10s">[ ok ]</text>
+<text class="fg a" x="87" y="224" style="animation-delay:2.80s">memory-mcp</text>
+<text class="muted a" x="225.60000000000002" y="224" style="animation-delay:2.80s">one memory for all my ai tools</text>
+<text class="wait flash" x="24" y="248" style="animation-delay:3.02s">[ .. ]</text>
+<text class="ok a" x="24" y="248" style="animation-delay:3.32s">[ ok ]</text>
+<text class="fg a" x="87" y="248" style="animation-delay:3.02s">guardian</text>
+<text class="muted a" x="225.60000000000002" y="248" style="animation-delay:3.02s">ai agent that reads my alerts</text>
+<text class="accent strong a" x="24" y="282" style="animation-delay:3.69s">34 containers running</text>
+<text class="ok a" x="24" y="306" style="animation-delay:3.99s">homelab ~</text>
+<rect class="ok end" x="108" y="294" width="8" height="15" style="--start:3.99s"/>
+</svg>
