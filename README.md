@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/unveroleone?tab=followers"><img src="https://img.shields.io/github/followers/unveroleone?style=flat&labelColor=111111&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" alt="Followers" /></a>
   <a href="https://github.com/unveroleone?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/unveroleone?style=flat&affiliations=OWNER%2CCOLLABORATOR&labelColor=111111&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" alt="Stars" /></a>
-  <a href="https://badges.strrl.dev/contributions/yearly/unveroleone"><img src="https://badges.strrl.dev/contributions/yearly/unveroleone?style=flat&labelColor=111111&logoColor=E7E7E7&color=BA4AB9&label=Contributions&logo=github" alt="Contributions this year" /></a>
+  <a href="https://badges.strrl.dev/contributions/yearly/unveroleone"><img src="https://badges.strrl.dev/contributions/yearly/unveroleone?style=flat&labelColor=111111&logoColor=E7E7E7&color=BA4AB9&label=Contributions&logo=github&v=2" alt="Contributions this year" /></a>
 </p>
 
 <p align="center">
