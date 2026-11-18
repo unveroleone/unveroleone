@@ -43,3 +43,4 @@
 Also into cybersecurity, RF hardware, AI agents and football.
 
 [unveroleone.com](https://unveroleone.com) · [docs](https://unveroleone.com/docs) · [blog](https://unveroleone.com/blog)
+Currently building Vesta, a personal agent on a Mac mini.
